@@ -21,7 +21,7 @@
 -  Mainnet Launch & Marketing Push
 -  Ecosystem Expansion & Partnerships
 
-# ⚡ Workflow
+# Workflow
 ```mermaid
 graph TD;
     subgraph Advertiser Flow
