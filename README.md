@@ -7,21 +7,21 @@
 | [![Platform](https://img.shields.io/badge/Platform-EVM-blue?style=flat-square&logo=ethereum)]([https://](https://ethereum.org/en/developers/docs/evm/))  | [![License](https://img.shields.io/github/license/mtcxdev/AbstraNet?style=flat-square)](LICENSE)  | [![Contributors](https://img.shields.io/github/contributors/vyro-xyz/vyro?style=flat-square)](https://github.com/vyro-xyz/vyro/graphs/contributors) |
 |---|---|---|
 
-# Features
+## Features
 - **Vyro Engage** – Earn rewards for completing social media tasks.
 - **Vyro Ads** – Transparent and efficient advertising for brands.
 - **Non-Custodial Wallets** – Users retain full control over their funds.
 - **Smart Contract-Based Rewards** – Automated and transparent payouts.
 - **On-Chain Verification** – Ensures immutable task completion tracking.
 
-# Roadmap
+## Roadmap
 -  **->** MVP Development & Smart Contract Deployment
 -  Frontend & User Dashboard
 -  Testnet Launch & Security Audits
 -  Mainnet Launch & Marketing Push
 -  Ecosystem Expansion & Partnerships
 
-# Workflow
+## Workflow
 ```mermaid
 graph TD;
     subgraph Advertiser Flow
@@ -39,16 +39,26 @@ graph TD;
     F -->|Data Feed| I[Data Processing & Fraud Check]
     I --> G
 ```
-# Tokenomics
-- **Total Supply:** 1B $VIRAL
-- **Rewards Pool:** 40%
-- **Marketing & Partnerships:** 20%
-- **Development & Team:** 15%
-- **Liquidity & Staking:** 15%
-- **Reserve & Future Initiatives:** 10%
 
-# Whitepaper
+## Tokenomics
+
+**Vyro** utilizes the _$VIRAL_ token as its native utility token. It will be used to fund ad campaigns and as payment for rewards
+
+
+```mermaid
+pie
+  title $VIRAL Token Allocation
+  "Rewards Pool" : 40
+  "Marketing & Partnerships" : 20
+  "Development & Team" : 15
+  "Liquidity & Staking" : 15
+  "Reserve & Future Initiatives" : 10
+
+```
+
+
+## Whitepaper
 [**Read the Vyro Whitepaper**](https://vyro-xyz.github.io/assets/vyro-whitepaper-and-tokenomics.pdf)
 
-# License
+## License
 Vyro is licensed under the MIT License. See [LICENSE](LICENSE) for details.
