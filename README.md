@@ -24,20 +24,21 @@
 ## Workflow
 ```mermaid
 graph TD;
-    subgraph Advertiser Flow
-        A[Advertiser UI - Create Ad] --> B[Campaign Manager - Funds Contract]
-        B --> C[Blockchain SC - Escrow & Funds]
-        C --> D[$VIRAL Treasury - Holds Rewards]
-    end
+    %% Advertiser Flow
+    A[Advertiser UI - Create Ad] --> B[Campaign Manager - Funds Contract]
+    B --> C[Blockchain SC - Escrow & Funds]
+    C --> D[$VIRAL Treasury - Holds Rewards]
+    A --> E
 
-    subgraph User Engagement Flow
-        E[User Engagement - Twitter, IG, YouTube, TikTok] --> F[Event Listener - Twitter, Reddit, Websites, APIs]
-        F --> G[Oracle Service - Verifies Data & Sends TX]
-        G --> H[Blockchain SC - Logs & Pays Users/Creators]
-    end
-    
+    %% User Engagement Flow
+    E[User Engagement - Twitter, IG, YouTube, TikTok] --> F[Event Listener - Twitter, Reddit, Websites, APIs]
     F -->|Data Feed| I[Data Processing & Fraud Check]
-    I --> G
+    I --> G[Oracle Service - Verifies Data & Sends TX]
+    G --> H[Blockchain SC - Logs & Pays Users/Creators]
+
+    %% Connecting Advertiser Flow to User Engagement Flow
+    D -->|Funds Rewards| H
+
 ```
 
 ## Tokenomics
@@ -57,8 +58,11 @@ pie
 ```
 
 
-## Whitepaper
-[**Read the Vyro Whitepaper**](https://vyro-xyz.github.io/assets/vyro-whitepaper-and-tokenomics.pdf)
+## Links
+- [Vyro Whitepaper ->](https://vyro-xyz.github.io/assets/vyro-whitepaper-and-tokenomics.pdf)
+- [Website ->](https://vyro-xyz.github.io)
+- [Collaborate ->](https://discord.com/users/mtcxdev)
+- [Inquire ->](mailto:toogun.io@gmail.com)
 
 ## License
 Vyro is licensed under the MIT License. See [LICENSE](LICENSE) for details.
