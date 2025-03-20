@@ -4,7 +4,7 @@
 
 **Vyro** is a decentralized engagement and advertising platform that enables brands, advertisers, and individuals to create incentivized engagement campaigns. Users earn rewards for completing verified tasks, such as social media interactions and content creation.
 
-| [![Platform](https://img.shields.io/badge/Platform-EVM-blue?style=flat-square&logo=ethereum)]([https://](https://ethereum.org/en/developers/docs/evm/))  | [![License](https://img.shields.io/github/license/mtcxdev/AbstraNet?style=flat-square)](LICENSE)  | [![Contributors](https://img.shields.io/github/contributors/vyro-xyz/vyro?style=flat-square)](https://github.com/vyro-xyz/vyro/graphs/contributors) |
+| [![Platform](https://img.shields.io/badge/Platform-Coming_Soon-blue?style=flat-square&logo=ethereum)]([https://](https://ethereum.org/en/developers/docs/evm/))  | [![License](https://img.shields.io/github/license/mtcxdev/AbstraNet?style=flat-square)](LICENSE)  | [![Contributors](https://img.shields.io/github/contributors/vyro-xyz/vyro?style=flat-square)](https://github.com/vyro-xyz/vyro/graphs/contributors) |
 |---|---|---|
 
 ## Features
