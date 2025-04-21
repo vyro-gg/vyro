@@ -1,15 +1,14 @@
-| <img src="https://vyro-xyz.github.io/assets/vyro-small.png" alt="Vyro" width="60"> | VYRO |
-|---|---|
+<img src="https://fovo.pages.dev/fovo_1080_black_bg.png" alt="FOVO" width="60">
 
 
-**Vyro** is a decentralized engagement and advertising platform that enables brands, advertisers, and individuals to create incentivized engagement campaigns. Users earn rewards for completing verified tasks, such as social media interactions and content creation.
+**FOVO** is a decentralized engagement and advertising platform that enables brands, advertisers, and individuals to create incentivized engagement campaigns. Users earn rewards for completing verified tasks, such as social media interactions and content creation.
 
-| [![Platform](https://img.shields.io/badge/Platform-Coming_Soon-blue?style=flat-square&logo=ethereum)]([https://](https://ethereum.org/en/developers/docs/evm/))  | [![License](https://img.shields.io/github/license/mtcxdev/AbstraNet?style=flat-square)](LICENSE)  | [![Contributors](https://img.shields.io/github/contributors/vyro-xyz/vyro?style=flat-square)](https://github.com/vyro-xyz/vyro/graphs/contributors) |
+| [![Platform](https://img.shields.io/badge/Platform-XION-blue?style=flat-square&logo=ethereum)]([https://](https://ethereum.org/en/developers/docs/evm/))  | [![License](https://img.shields.io/github/license/mtcxdev/AbstraNet?style=flat-square)](LICENSE)  | [![Contributors](https://img.shields.io/github/contributors/vyro-xyz/vyro?style=flat-square)](https://github.com/vyro-xyz/vyro/graphs/contributors) |
 |---|---|---|
 
 ## Features
-- **Vyro Engage** – Earn rewards for completing social media tasks.
-- **Vyro Ads** – Transparent and efficient advertising for brands.
+- **FOVO Engage** – Earn rewards for completing social media tasks.
+- **FOVO Ads** – Transparent and efficient advertising for brands.
 - **Non-Custodial Wallets** – Users retain full control over their funds.
 - **Smart Contract-Based Rewards** – Automated and transparent payouts.
 - **On-Chain Verification** – Ensures immutable task completion tracking.
@@ -27,7 +26,7 @@ graph TD;
     %% Advertiser Flow
     A[Advertiser UI - Create Ad] --> B[Campaign Manager - Funds Contract]
     B --> C[Blockchain SC - Escrow & Funds]
-    C --> D[$VIRAL Treasury - Holds Rewards]
+    C --> D[Campaign CA - Holds Rewards]
     A --> E
 
     %% User Engagement Flow
@@ -43,26 +42,14 @@ graph TD;
 
 ## Tokenomics
 
-**Vyro** utilizes the _$VIRAL_ token as its native utility token. It will be used to fund ad campaigns and as payment for rewards
-
-
-```mermaid
-pie
-  title $VIRAL Token Allocation
-  "Rewards Pool" : 40
-  "Marketing & Partnerships" : 20
-  "Development & Team" : 15
-  "Liquidity & Staking" : 15
-  "Reserve & Future Initiatives" : 10
-
-```
+**FOVO** utilizes the XION token as its native utility token. It will be used to fund ad campaigns and as payment for rewards
 
 
 ## Links
-- [Vyro Whitepaper ->](https://vyro-xyz.github.io/assets/vyro-whitepaper-and-tokenomics.pdf)
-- [Website ->](https://vyro-xyz.github.io)
+- [FOVO Whitepaper ->](https://fovo.pages.dev/whitepaper.pdf)
+- [Website ->](https://fovo.mtcx.dev)
 - [Collaborate ->](https://discord.com/users/mtcxdev)
-- [Inquire ->](mailto:toogun.io@gmail.com)
+- [Inquire ->](mailto:toogun@mtcx.dev)
 
 ## License
 Vyro is licensed under the MIT License. See [LICENSE](LICENSE) for details.
