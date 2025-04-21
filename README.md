@@ -31,8 +31,7 @@ graph TD;
 
     %% User Engagement Flow
     E[User Engagement - Twitter, IG, YouTube, TikTok] --> F[Event Listener - Twitter, Reddit, Websites, APIs]
-    F -->|Data Feed| I[Data Processing & Fraud Check]
-    I --> G[Oracle Service - Verifies Data & Sends TX]
+    F --> G[Oracle Service - Verifies Data & Sends TX]
     G --> H[Blockchain SC - Logs & Pays Users/Creators]
 
     %% Connecting Advertiser Flow to User Engagement Flow
