@@ -1,54 +1,108 @@
-<img src="https://fovo.pages.dev/fovo_1080_black_bg.png" alt="FOVO" width="60">
+<img src="https://vyro.pages.dev/vyro_1080_black_bg.png" alt="VYRO" width="60">
 
+# VYRO
 
-**FOVO** is a decentralized engagement and advertising platform that enables brands, advertisers, and individuals to create incentivized engagement campaigns. Users earn rewards for completing verified tasks, such as social media interactions and content creation.
+**VYRO** is a comprehensive no-code platform that democratizes the creation and growth of memecoins and NFT projects on Polygon. By combining intuitive design tools, viral engagement mechanics, and robust launch infrastructure, VYRO eliminates technical barriers while enabling creators to build, monetize, and scale digital assets with minimal friction.
 
-| [![Platform](https://img.shields.io/badge/Platform-XION-blue?style=flat-square&logo=ethereum)]([https://](https://ethereum.org/en/developers/docs/evm/))  | [![License](https://img.shields.io/github/license/mtcxdev/AbstraNet?style=flat-square)](LICENSE)  | [![Contributors](https://img.shields.io/github/contributors/vyro-xyz/vyro?style=flat-square)](https://github.com/vyro-xyz/vyro/graphs/contributors) |
+| [![Platform](https://img.shields.io/badge/Platform-Polygon-8247e5?style=flat-square&logo=polygon)](https://polygon.technology/) | [![License](https://img.shields.io/github/license/mtcxdev/AbstraNet?style=flat-square)](LICENSE) | [![Contributors](https://img.shields.io/github/contributors/vyro-xyz/vyro?style=flat-square)](https://github.com/vyro-xyz/vyro/graphs/contributors) |
 |---|---|---|
 
 ## Features
-- **FOVO Engage** – Earn rewards for completing social media tasks.
-- **FOVO Ads** – Transparent and efficient advertising for brands.
-- **Non-Custodial Wallets** – Users retain full control over their funds.
-- **Smart Contract-Based Rewards** – Automated and transparent payouts.
-- **On-Chain Verification** – Ensures immutable task completion tracking.
+
+### VYRO Launchpad
+- Intuitive drag-and-drop page builder for custom landing pages
+- Professional design templates optimized for conversion and virality
+- Subdomain hosting with premium custom domain options
+- Responsive design for all devices
+
+### VYRO Campaigns
+- Action verification system for community participation
+- Automated reward distribution for verified social activities
+- Real-time leaderboards that gamify participation
+- Comprehensive analytics on campaign performance
+
+### VYRO Drop Manager
+- Professional tools to manage the complete project lifecycle
+- Customizable token distribution with vesting schedules
+- Multi-sig controls for enhanced treasury security
+- Configurable liquidity management with time-locks
+- Token-gating for exclusive content and features
+
+## Technology Stack
+- **Blockchain**: Solidity smart contracts deployed on Polygon PoS
+- **Storage**: IPFS for decentralized content storage
+- **Integration**: RPC providers and wallet connect interfaces
+- **Security**: Comprehensive smart contract audits and verification systems
+
+## Competitive Advantage
+- **No-Code Philosophy**: True drag-and-drop functionality requiring zero technical knowledge
+- **Branded Project Presence**: Professional subdomains with consistent branding
+- **Engagement-to-Earn Mechanics**: On-chain proof of social engagement with automated rewards
+- **Professional Growth Tools**: Enterprise-grade analytics accessible to all creators
+- **Polygon-First Approach**: Optimized for low fees and high throughput
 
 ## Roadmap
--  **->** MVP Development & Smart Contract Deployment
--  Frontend & User Dashboard
--  Testnet Launch & Security Audits
--  Mainnet Launch & Marketing Push
--  Ecosystem Expansion & Partnerships
+
+### Phase 1: Foundation (2 months)
+- Smart contract development and auditing
+- Core launchpad infrastructure development
+- Landing page builder MVP
+- Initial security framework implementation
+
+### Phase 2: Beta Development (3 months)
+- Campaign system with engagement verification
+- Creator dashboard and analytics
+- Closed beta launch (whitelist-only)
+- Feedback integration and iteration
+
+### Phase 3: Public Launch (4 months)
+- Full public platform release
+- Premium subscription tiers
+- Custom domain integration
+- Complete Drop Manager suite
+
+### Phase 4: Expansion (3+ months)
+- Mobile application development
+- Creator staking and reputation system
+- Progressive decentralization through DAO formation
+- Ecosystem expansion initiatives
 
 ## Workflow
+
 ```mermaid
 graph TD;
-    %% Advertiser Flow
-    A[Advertiser UI - Create Ad] --> B[Campaign Manager - Funds Contract]
-    B --> C[Blockchain SC - Escrow & Funds]
-    C --> D[Campaign CA - Holds Rewards]
-    A --> E
-
-    %% User Engagement Flow
-    E[User Engagement - Twitter, IG, YouTube, TikTok] --> F[Event Listener - Twitter, Reddit, Websites, APIs]
-    F --> G[Oracle Service - Verifies Data & Sends TX]
-    G --> H[Blockchain SC - Logs & Pays Users/Creators]
-
-    %% Connecting Advertiser Flow to User Engagement Flow
-    D -->|Funds Rewards| H
-
+    %% Creator Flow
+    A[Creator UI - Design Project] --> B[VYRO Launchpad - Deploy Contract]
+    B --> C[Blockchain SC - Token Creation]
+    C --> D[Project Subdomain - Project.vyro.gg]
+    
+    %% Campaign Flow
+    E[VYRO Campaigns - Create Tasks] --> F[User Engagement - Social Media Actions]
+    F --> G[Action Verification - Proof of Engagement]
+    G --> H[Reward Distribution - Tokens/NFTs]
+    
+    %% Project Management Flow
+    I[VYRO Drop Manager - Project Lifecycle] --> J[Vesting, Treasury, Liquidity]
+    
+    %% Connecting Flows
+    D --> E
+    H --> I
 ```
 
-## Tokenomics
-
-**FOVO** utilizes the XION token as its native utility token. It will be used to fund ad campaigns and as payment for rewards
-
+## Business Model
+- **Subscription Plans**: Free basic tier, Premium and Enterprise
+- **Launch Fees**: Tiered pricing based on project scope
+- **Transaction Commissions**: Configurable micro-fees (0.5-2%) on token sales and NFT mints
+- **Premium Tools**: Add-on pricing for specialized features
 
 ## Links
-- [FOVO Whitepaper ->](https://fovo.pages.dev/whitepaper.pdf)
-- [Website ->](https://fovo.mtcx.dev)
-- [Collaborate ->](https://discord.com/users/mtcxdev)
-- [Inquire ->](mailto:toogun@mtcx.dev)
+- [VYRO Whitepaper →](https://vyro.pages.dev/whitepaper.pdf)
+- [Website →](https://vyro.mtcx.dev)
+- [Collaborate →](https://discord.com/users/mtcxdev)
+- [Inquire →](mailto:toogun@mtcx.dev)
 
 ## License
-Vyro is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+VYRO is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## About the Team
+VYRO is led by Toogun Miracle and operates under MTCX IO MEDIA, a Nigerian-based digital development studio specializing in blockchain applications. The team includes smart contract engineers, frontend/backend developers, UX specialists, and community growth strategists.
