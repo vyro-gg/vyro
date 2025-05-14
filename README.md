@@ -1,6 +1,4 @@
-<img src="https://vyro.pages.dev/vyro_1080_black_bg.png" alt="VYRO" width="60">
-
-# VYRO
+<img src="https://avatars.githubusercontent.com/u/203901436?s=400&u=c1cca7b671e595af7fb0eeb1e0b1b384ee414b10&v=4" alt="VYRO" width="60">
 
 **VYRO** is a comprehensive no-code platform that democratizes the creation and growth of memecoins and NFT projects on Polygon. By combining intuitive design tools, viral engagement mechanics, and robust launch infrastructure, VYRO eliminates technical barriers while enabling creators to build, monetize, and scale digital assets with minimal friction.
 
