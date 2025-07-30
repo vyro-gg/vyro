@@ -1,8 +1,8 @@
 <img src="https://avatars.githubusercontent.com/u/203901436?s=400&u=c1cca7b671e595af7fb0eeb1e0b1b384ee414b10&v=4" alt="VYRO" width="60">
 
-**VYRO** is a comprehensive no-code platform that democratizes the creation and growth of memecoins and NFT projects on Polygon. By combining intuitive design tools, viral engagement mechanics, and robust launch infrastructure, VYRO eliminates technical barriers while enabling creators to build, monetize, and scale digital assets with minimal friction.
+**VYRO** is a comprehensive no-code platform that democratizes the creation and growth of memecoins and NFT projects on the Xion Blockchain. By combining intuitive design tools, viral engagement mechanics, and robust launch infrastructure, VYRO eliminates technical barriers while enabling creators to build, monetize, and scale digital assets with minimal friction.
 
-| [![Platform](https://img.shields.io/badge/Platform-Polygon-8247e5?style=flat-square&logo=polygon)](https://polygon.technology/) | [![License](https://img.shields.io/github/license/mtcxdev/AbstraNet?style=flat-square)](LICENSE) | [![Contributors](https://img.shields.io/github/contributors/vyro-xyz/vyro?style=flat-square)](https://github.com/vyro-xyz/vyro/graphs/contributors) |
+| [![Platform](https://img.shields.io/badge/Platform-Xion-8247e5?style=flat-square)](https://xion.burnt.com/) | [![License](https://img.shields.io/github/license/mtcxdev/AbstraNet?style=flat-square)](LICENSE) | [![Contributors](https://img.shields.io/github/contributors/vyro-gg/vyro?style=flat-square)](https://github.com/vyro-gg/vyro/graphs/contributors) |
 |---|---|---|
 
 ## Features
@@ -37,7 +37,7 @@
 - **Branded Project Presence**: Professional subdomains with consistent branding
 - **Engagement-to-Earn Mechanics**: On-chain proof of social engagement with automated rewards
 - **Professional Growth Tools**: Enterprise-grade analytics accessible to all creators
-- **Polygon-First Approach**: Optimized for low fees and high throughput
+- **Xion-First Approach**: Optimized for no fees and high throughput
 
 ## Roadmap
 
@@ -94,8 +94,6 @@ graph TD;
 - **Premium Tools**: Add-on pricing for specialized features
 
 ## Links
-- [VYRO Whitepaper →](https://vyro.pages.dev/whitepaper.pdf)
-- [Website →](https://vyro.mtcx.dev)
 - [Collaborate →](https://discord.com/users/mtcxdev)
 - [Inquire →](mailto:toogun@mtcx.dev)
 
@@ -103,4 +101,4 @@ graph TD;
 VYRO is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## About the Team
-VYRO is led by Toogun Miracle and operates under MTCX IO MEDIA, a Nigerian-based digital development studio specializing in blockchain applications. The team includes smart contract engineers, frontend/backend developers, UX specialists, and community growth strategists.
+VYRO is led by mtcxdev and operates under MTCX IO MEDIA, a digital development studio specializing in blockchain applications. The team includes smart contract engineers, frontend/backend developers, UX specialists, and community growth strategists.
