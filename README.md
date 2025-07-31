@@ -27,7 +27,7 @@
 - Token-gating for exclusive content and features
 
 ## Technology Stack
-- **Blockchain**: Solidity smart contracts deployed on Polygon PoS
+- **Blockchain**: CosmWasm smart contracts deployed on Burnt Xion
 - **Storage**: IPFS for decentralized content storage
 - **Integration**: RPC providers and wallet connect interfaces
 - **Security**: Comprehensive smart contract audits and verification systems
